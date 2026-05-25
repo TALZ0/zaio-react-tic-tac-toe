@@ -1,6 +1,4 @@
-# Tic Tac Toe — React Reference Project
-
-A fully-featured Tic Tac Toe game built with React, styled-components, and useReducer.
+# Tic Tac Toe — React  Project
 
 ## Features
 - useReducer for all game state management
@@ -8,14 +6,8 @@ A fully-featured Tic Tac Toe game built with React, styled-components, and useRe
 - Light / Dark mode toggle
 - Scoreboard (wins, draws)
 - Undo last move (with score reversion)
-- Move history with time travel (jump to any board state)
-- Component-scoped styled-components
-
-## Stack
-- Vite + React 18
-- styled-components v6
-- No React Router (single-page app)
-
+- Move history (jump to any board state)
+  
 ## Setup
 
 ```bash
